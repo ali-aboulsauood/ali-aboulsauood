@@ -18,6 +18,6 @@ I still have not decided which track I will take in the future, but most likely 
 - 🌱 I’m currently learning the foundations of programming, using C++ as a model.
 - 🤔 I’m looking for help with finding decent resources to learn C#.
 - 📫 How to reach me: [Gmail](aliaboulsauood@gmail.com), [LinkedIn](www.linkedin.com/in/ali-aboul-sauood) (<i>LinkedIn account currently restricted for unknown reasons</i>)
-      Follow me on X: https://x.com/AboulSauood
-      Follow me on Matsodon: https:://matsodon.social/@aliaboulsauood
+  - [Follow me on X](https://x.com/AboulSauood)
+  - [Follow me on Matsodon](https:://matsodon.social/@aliaboulsauood)
 - 😄 Pronouns: he/him
