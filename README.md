@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I have migrated to a new GitHub account, [`ali-mohammed`](www.github.com/ali-mohammed). Repositories on this account will be transferred to the aforementioned new account, and this account will soon get deleted. I have also migrated from most of the social profiles linked to in the profile page or profile README — links to the new profiles can be found in the profile page and README of the aforementioned new account.
+
 # About me
 
 > Hello, World!
